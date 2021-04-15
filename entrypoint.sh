@@ -20,4 +20,4 @@ VARS=$7
   },
   "source": $SOURCE
 }
-JSON
+JSON >version-metadata
